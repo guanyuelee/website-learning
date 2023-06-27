@@ -8,3 +8,5 @@
 
 # 引用
 [1] How to Download & Install Node.js and NPM on Windows, https://www.guru99.com/download-install-node-js.html#2. 
+
+我的邮箱：gyli@mail.nankai.edu.cn
